@@ -3,7 +3,7 @@ export default [
     title: 'Playfolio',
     imgUrl: './assets/portfolio.png',
     stack: ['React', 'Vite', 'Tailwind CSS'],
-    link: 'https://pooja-thalur.github.io/personal-portfolio-main/',
+    link: 'https://pooja-thalur.github.io/personal-portfolio/',
     github: 'https://github.com/pooja-thalur/portfoliov2',
   },
   {
